@@ -162,6 +162,11 @@ footer{
         font-size: 15px;
     }
 }
+@media (max-width:400px){
+    .img-logo{
+        display: none;
+    }
+}
 
 
 /* FORMULARIO */
@@ -262,7 +267,15 @@ input{
 }
 
 
-/* IMG SLIDES */
+/* SLIDES */
 .img-slides{
     width: 100%;
+}
+.slide{
+    margin-top: 200px;
+}
+
+/* HOME */
+.homeTitle{
+    margin-top: 100px;
 }
