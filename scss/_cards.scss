@@ -1,0 +1,45 @@
+/* CARDS */
+
+.btnCards {
+    padding: 10px 20px;
+    background-color: black;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+
+    &:hover {
+        background-color: #2a2525;
+    }
+}
+
+.producto-precio {
+    color: black;
+    font-size: 1.7rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.producto-titulo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.img-product {
+    height: 250px;
+    width: 250px;
+}
+
+.card {
+    text-align: center;
+    margin: 70px;
+}
+
+.card-image {
+    align-self: center;
+}

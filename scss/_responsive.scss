@@ -1,0 +1,47 @@
+@media (max-width: 1300px) {
+    .img-img {
+        display: none;
+    }
+}
+
+@media (max-width: 540px) {
+    .row {
+        justify-content: center;
+    }
+
+    footer h3 {
+        font-size: 20px;
+    }
+
+    .rs-link {
+        display: flex;
+        flex-direction: row;
+        margin-bottom: 20px;
+    }
+
+    .section_2-title {
+        font-size: 30px;
+    }
+
+    .paragraph-text {
+        font-size: inherit;
+    }
+}
+
+@media (max-width: 650px) {
+
+    .titleFaq,
+    .questionsTitle {
+        font-size: 20px;
+    }
+
+    .paragraphFaq {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 400px) {
+    .img-logo {
+        display: none;
+    }
+}

@@ -1,0 +1,64 @@
+/* ABOUT */
+
+.contenedores {
+    margin: auto;
+}
+
+.section_2 {
+    width: 75%;
+    margin: auto;
+    padding: 75px 0;
+}
+
+.section_2-title {
+    font-size: 40px;
+    font-weight: bold;
+    margin: 25px 0;
+}
+
+.us {
+    display: flex;
+}
+
+.us_text {
+    width: 60%;
+}
+
+.us-paragraph {
+    font-size: 18px;
+    color: #333;
+    padding: 0 10% 0 0;
+    text-align: justify;
+}
+
+.paragraph-text {
+    margin: 10px 0;
+}
+
+.us-rs {
+    margin: 20px 0;
+}
+
+.us-rs-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 30px 0;
+}
+
+.rs-icon {
+    margin: 20px 0;
+}
+
+.rs-link {
+    margin: 0 10px;
+}
+
+.us-img {
+    width: 40%;
+}
+
+.img-img {
+    object-fit: contain;
+    width: 100%;
+    border-radius: 5px;
+}
