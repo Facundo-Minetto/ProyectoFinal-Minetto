@@ -2,7 +2,7 @@
 
 .btnCards {
     padding: 10px 20px;
-    background-color: black;
+    background-color: $color-negro;
     color: #fff;
     font-size: 1rem;
     font-weight: bold;
@@ -17,7 +17,7 @@
 }
 
 .producto-precio {
-    color: black;
+    color: $color-negro;
     font-size: 1.7rem;
     font-weight: bold;
     text-align: center;
