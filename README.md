@@ -1,4 +1,4 @@
-# PreEntrega3-Minetto
+# Proyecto Final Desarollo Web ( HTML, CSS, SASS, BootStrap )
 
 Alumno: Facundo Minetto
 
